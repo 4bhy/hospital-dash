@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hospital-dash/static/css/main.49b2bb8e.css",
+    "main.js": "/hospital-dash/static/js/main.1a1a0378.js",
+    "static/js/787.cda612ba.chunk.js": "/hospital-dash/static/js/787.cda612ba.chunk.js",
+    "index.html": "/hospital-dash/index.html",
+    "main.49b2bb8e.css.map": "/hospital-dash/static/css/main.49b2bb8e.css.map",
+    "main.1a1a0378.js.map": "/hospital-dash/static/js/main.1a1a0378.js.map",
+    "787.cda612ba.chunk.js.map": "/hospital-dash/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b2bb8e.css",
+    "static/js/main.1a1a0378.js"
+  ]
+}
